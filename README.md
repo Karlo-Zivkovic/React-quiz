@@ -3,7 +3,7 @@ Quiz app. Using context + reducer. Using timer.
 
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Libraries and Utilities Used</h2>
 
 - <b>React</b>
 
